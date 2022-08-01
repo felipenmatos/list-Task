@@ -6,7 +6,7 @@ O projeto foi desenvolvido a fim de praticar alguns métodos essenciais do Types
 
 ## Imagem do Projeto
 
-image.png
+![image](https://user-images.githubusercontent.com/82072640/182213331-eded6c61-1229-4df8-aa76-a3df6ea9934e.png)
 
 ### `npm start`
 
