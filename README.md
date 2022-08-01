@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Projeto Typescript de Gerenciador de Tarefas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+O projeto foi desenvolvido a fim de praticar alguns métodos essenciais do Typescript.
 
-In the project directory, you can run:
+## Imagem do Projeto
+
+image.png
 
 ### `npm start`
 
